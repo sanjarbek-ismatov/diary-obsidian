@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "9338536b4651dd89",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7b3d1e36951db5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05623e8cbce9e59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-18"
+            }
+          },
+          {
+            "id": "6e5794617661195c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-18"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01aa830cd6c07627",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac4fc7a5446b5b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aab34b769cd492d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f6c6d00721fec0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#change-in-approach",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "30f6a73d500beed8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b7a4ec0974a83d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1dd0c7ec795c8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96edb5e43df1b65a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-18"
+            }
+          },
+          {
+            "id": "87a5ea35013dcd61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-18"
+            }
+          },
+          {
+            "id": "8b01a5c39277056a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38161f0ca99d4ab0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2024/10.October/2024-10-18.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-18"
+            }
+          },
+          {
+            "id": "c306a40265d772d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "6e5794617661195c",
+  "lastOpenFiles": [
+    "Daily notes/2024/10.October/2024-10-16 (lost).md",
+    "Daily notes/2024/10.October/2024-10-17 (lost).md",
+    "Daily notes/2024/10.October/2024-10-18.md",
+    "Daily notes/2024/09.September/2024-09-30.md",
+    "Daily notes/2024/09.September/2024-09-29.md",
+    "Daily notes/2024/09.September/2024-09-28.md",
+    "Daily notes/2024/09.September/2024-09-27.md",
+    "Daily notes/2024/10.October/2024-10-01 (lost).md",
+    "Assets/Pasted image 20241016065952.png",
+    "Daily notes/2024/10.October/2024-10-15 (lost).md",
+    "Daily notes/2024/10.October/2024-10-07.md",
+    "Daily notes/2024/10.October/2024-10-02.md",
+    "Daily notes/2024/10.October/2024-10-14 (lost).md",
+    "Daily notes/2024/10.October/2024-10-14 (lost).md",
+    "Assets/Pasted image 20241014214442.png",
+    "Assets/Pasted image 20241005095503.png",
+    "Daily notes/2024/10.October/2024-10-12 (lost).md",
+    "Daily notes/2024/10.October/2024-10-13 (lost).md",
+    "Daily notes/2024/10.October/2024-10-11 (lost).md",
+    "Daily notes/2024/10.October/2024-10-10 (lost).md",
+    "Daily notes/2024/10.October/2024-10-09 (lost).md",
+    "Daily notes/2024/10.October/2024-10-08 (lost).md",
+    "Daily notes/2024/10.October/2024-10-06.md",
+    "Daily notes/2024/10.October/2024-10-05.md",
+    "Daily notes/2024/10.October/2024-10-04.md",
+    "Daily notes/2024/10.October/2024-10-03.md",
+    "Assets/Pasted image 20241012074136.png",
+    "Insights/Why not/Why not Linux.md",
+    "Assets/Pasted image 20241005095503 1.png",
+    "Insights/What it",
+    "Insights/Why not/Why not S3.md",
+    "Insights/Why not/Why not porn when stress or depression.md",
+    "Insights/Articles",
+    "Insights/Why not",
+    "Daily notes/2024/09.September",
+    "Daily notes/2024/10.October",
+    "Daily notes/2024",
+    "Daily notes",
+    "Assets",
+    "Untitled.canvas",
+    "Recording 20240928203942.webm",
+    "Notes"
+  ]
+}
