@@ -1,58 +1,42 @@
 {
   "main": {
-    "id": "9338536b4651dd89",
+    "id": "dd2bb2ee59d09452",
     "type": "split",
     "children": [
       {
-        "id": "ed7b3d1e36951db5",
+        "id": "5edf64f49cd86367",
         "type": "tabs",
         "children": [
           {
-            "id": "05623e8cbce9e59c",
+            "id": "5849c41840a3aba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "file": "Daily notes/2024/11.November/2024-11-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-18"
-            }
-          },
-          {
-            "id": "6e5794617661195c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024/11.November/2024-11-28.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-28"
+              "title": "2024-11-27"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "01aa830cd6c07627",
+    "id": "2fd1b44defda624d",
     "type": "split",
     "children": [
       {
-        "id": "ac4fc7a5446b5b15",
+        "id": "4016a27673f3626b",
         "type": "tabs",
         "children": [
           {
-            "id": "5aab34b769cd492d",
+            "id": "48335a1d65995164",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +48,12 @@
             }
           },
           {
-            "id": "9f6c6d00721fec0b",
+            "id": "f20a076fa507afc7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#change-in-approach",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "30f6a73d500beed8",
+            "id": "350dbc9c92ea9b8e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.51103591918945
+    "width": 300
   },
   "right": {
-    "id": "b7a4ec0974a83d90",
+    "id": "091e6a3aece996d2",
     "type": "split",
     "children": [
       {
-        "id": "c1dd0c7ec795c8d1",
+        "id": "f52533fdb7957dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "96edb5e43df1b65a",
+            "id": "96d894daf617c5ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "file": "Daily notes/2024/11.November/2024-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-18"
+              "title": "Backlinks for 2024-11-27"
             }
           },
           {
-            "id": "87a5ea35013dcd61",
+            "id": "4c0b24a857fe9a88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/10.October/2024-10-18.md",
+                "file": "Daily notes/2024/11.November/2024-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-18"
+              "title": "Outgoing links from 2024-11-27"
             }
           },
           {
-            "id": "8b01a5c39277056a",
+            "id": "2594ce85713c3842",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,19 +135,7 @@
             }
           },
           {
-            "id": "38161f0ca99d4ab0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily notes/2024/10.October/2024-10-18.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2024-10-18"
-            }
-          },
-          {
-            "id": "c306a40265d772d8",
+            "id": "71393cdf41000116",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -174,6 +146,18 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "66a37329c2e97076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2024/11.November/2024-11-27.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-27"
             }
           }
         ]
@@ -188,56 +172,15 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "daily-notes:Open today's daily note": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e5794617661195c",
+  "active": "5849c41840a3aba6",
   "lastOpenFiles": [
-    "Assets/Pasted image 20241128074133.png",
-    "Daily notes/2024/11.November/2024-11-27.md",
-    "Daily notes/2024/11.November/2024-11-28.md",
-    "Daily notes/2024/11.November/2024-11-26.md",
-    "Daily notes/2024/11.November/2024-11-25.md",
-    "Daily notes/2024/11.November/2024-11-24.md",
-    "Daily notes/2024/11.November/2024-11-12.md",
-    "Daily notes/2024/11.November/2024-11-11 (lost).md",
-    "Daily notes/2024/11.November/Untitled.md",
-    "Daily notes/2024/11.November/2024-11-10 (lost).md",
-    "Daily notes/2024/11.November/2024-11-09 (lost).md",
-    "Daily notes/2024/11.November/2024-11-08 (lost).md",
-    "Daily notes/2024/11.November/2024-11-07 (lost).md",
-    "Daily notes/2024/11.November/2024-11-06 (lost).md",
-    "Daily notes/2024/11.November/2024-11-05 (lost).md",
-    "Daily notes/2024/10.October/2024-10-18.md",
-    "Daily notes/2024/10.October/2024-10-16 (lost).md",
-    "Daily notes/2024/10.October/2024-10-17 (lost).md",
-    "Daily notes/2024/09.September/2024-09-30.md",
-    "Daily notes/2024/09.September/2024-09-29.md",
-    "Daily notes/2024/09.September/2024-09-28.md",
-    "Daily notes/2024/09.September/2024-09-27.md",
-    "Daily notes/2024/10.October/2024-10-01 (lost).md",
-    "Assets/Pasted image 20241016065952.png",
-    "Daily notes/2024/10.October/2024-10-15 (lost).md",
-    "Daily notes/2024/10.October/2024-10-07.md",
-    "Daily notes/2024/10.October/2024-10-02.md",
-    "Assets/Pasted image 20241014214442.png",
-    "Assets/Pasted image 20241005095503.png",
-    "Assets/Pasted image 20241012074136.png",
-    "Assets/Pasted image 20241005095503 1.png",
-    "Insights/What it",
-    "Insights/Articles",
-    "Insights/Why not",
-    "Daily notes/2024/09.September",
-    "Daily notes/2024/10.October",
-    "Daily notes/2024",
-    "Daily notes",
-    "Assets",
-    "Untitled.canvas",
-    "Recording 20240928203942.webm",
-    "Notes"
+    "Daily notes/2024/11.November/2024-11-28.md"
   ]
 }
