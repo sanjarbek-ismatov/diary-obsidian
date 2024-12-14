@@ -1,0 +1,3 @@
+# 1. Experiment
+	Track your willpower choices
+The concept is simple. Self-awareness is important to reduce the count of excuses during the day. Whatever you do, try to track it. For examples, you finish your work, now it is time to hit the gym. Do you go to there to exercise? Why do you want to do this and why not? If you do not want to do this, what is preventing? Is it cold? Or you just want to eat cookies and watch TV? Every time you make a decision, track it. The simple way to do this is to write notes. This may help where you are making a mistake or why you are not going to do that. 
