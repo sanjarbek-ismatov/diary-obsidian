@@ -2,7 +2,7 @@
   "theme": "system",
   "baseFontSize": 16,
   "accentColor": "",
-  "interfaceFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "",
   "textFontFamily": "FiraCode Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }
