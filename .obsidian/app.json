@@ -6,5 +6,6 @@
     "Fapping"
   ],
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false
 }
