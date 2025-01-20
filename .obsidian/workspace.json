@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "314930f50de7df0c",
+        "id": "9ea33df9161cc913",
         "type": "tabs",
         "children": [
           {
-            "id": "87038c49911f5900",
+            "id": "29330cecdb3adff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025/01.January/18.01.2025.md",
+                "file": "Daily notes/2025/01.January/20.01.2025.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.01.2025"
+              "title": "20.01.2025"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "091e6a3aece996d2",
@@ -179,10 +180,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "87038c49911f5900",
+  "active": "29330cecdb3adff8",
   "lastOpenFiles": [
-    "Daily notes/2024/09.September/2024-09-30.md",
+    "Daily notes/2025/01.January/19.01.2025.md",
+    "Daily notes/2025/01.January/20.01.2025.md",
+    "Daily notes/2024/11.November/2024-11-28.md",
+    "Daily notes/2024/11.November/2024-11-04.md",
+    "Daily notes/2024/11.November/2024-11-02.md",
+    "Daily notes/2024/11.November/2024-11-01.md",
+    "Daily notes/2024/12.December/2024-12-04.md",
+    "Daily notes/2024/12.December/2024-12-05.md",
+    "Daily notes/2024/12.December/2024-12-14.md",
+    "Daily notes/2024/12.December/2024-12-15.md",
+    "Daily notes/2024/12.December/2024-12-20.md",
+    "Daily notes/2024/12.December/2024-12-27.md",
     "Daily notes/2025/01.January/18.01.2025.md",
+    "Daily notes/2024/09.September/2024-09-30.md",
     "Daily notes/2025/01.January",
     "Daily notes/2024/09.September/2024-09-29.md",
     "Daily notes/2024/09.September/2024-09-28.md",
@@ -196,18 +209,6 @@
     "Daily notes/2024/10.October/2024-10-29 (lost).md",
     "Daily notes/2024/10.October/2024-10-27 (lost).md",
     "Daily notes/2024/10.October/2024-10-26 (lost).md",
-    "Daily notes/2024/10.October/2024-10-22.md",
-    "Daily notes/2024/10.October/2024-10-20.md",
-    "Daily notes/2024/10.October/2024-10-16.md",
-    "Daily notes/2024/10.October/2024-10-18 (lost).md",
-    "Daily notes/2024/10.October/2024-10-18.md",
-    "Daily notes/2024/10.October/2024-10-17 (lost).md",
-    "Daily notes/2024/10.October/2024-10-14.md",
-    "Daily notes/2024/10.October/2024-10-15 (lost).md",
-    "Daily notes/2024/10.October/2024-10-13 (lost).md",
-    "Daily notes/2024/10.October/2024-10-12.md",
-    "Daily notes/2024/10.October/2024-10-11.md",
-    "Daily notes/2024/10.October/2024-10-10 (lost).md",
     "Daily notes/2025",
     "Insights/Articles/The Willpower Instinct",
     "Daily notes/2024/12.December"
