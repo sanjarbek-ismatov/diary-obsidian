@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea33df9161cc913",
+        "id": "a315a89469e2795d",
         "type": "tabs",
         "children": [
           {
-            "id": "29330cecdb3adff8",
+            "id": "73800cb290092653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025/01.January/26.01.2025.md",
+                "file": "Daily notes/2025/01.January/06.02.2025.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "26.01.2025"
+              "title": "06.02.2025"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,35 +180,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "29330cecdb3adff8",
+  "active": "73800cb290092653",
   "lastOpenFiles": [
-    "Daily notes/2025/01.January/25.01.2025.md",
-    "Daily notes/2025/01.January/26.01.2025.md",
-    "Daily notes/2025/01.January/24.01.2025.md",
-    "Daily notes/2025/01.January/23.01.2025.md",
-    "Daily notes/2025/01.January/22.01.2025.md",
-    "Daily notes/2025/01.January/20.01.2025.md",
-    "Daily notes/2025/01.January/19.01.2025.md",
+    "Daily notes/2024/12.December/2024-12-27.md",
+    "Daily notes/2024/12.December/2024-12-20.md",
+    "Daily notes/2024/12.December/2024-12-15.md",
+    "Daily notes/2024/12.December/2024-12-14.md",
+    "Daily notes/2024/12.December/2024-12-05.md",
+    "Daily notes/2024/12.December/2024-12-04.md",
     "Daily notes/2024/11.November/2024-11-28.md",
     "Daily notes/2024/11.November/2024-11-04.md",
     "Daily notes/2024/11.November/2024-11-02.md",
     "Daily notes/2024/11.November/2024-11-01.md",
-    "Daily notes/2024/12.December/2024-12-04.md",
-    "Daily notes/2024/12.December/2024-12-05.md",
-    "Daily notes/2024/12.December/2024-12-14.md",
-    "Daily notes/2024/12.December/2024-12-15.md",
-    "Daily notes/2024/12.December/2024-12-20.md",
-    "Daily notes/2024/12.December/2024-12-27.md",
-    "Daily notes/2025/01.January/18.01.2025.md",
     "Daily notes/2024/09.September/2024-09-30.md",
-    "Daily notes/2025/01.January",
     "Daily notes/2024/09.September/2024-09-29.md",
     "Daily notes/2024/09.September/2024-09-28.md",
     "Daily notes/2024/09.September/2024-09-27.md",
-    "Daily notes/2024/10.October/2024-10-28.md",
-    "Daily notes/2024/10.October/2024-10-25.md",
-    "Daily notes/2024/10.October/2024-10-24.md",
-    "Daily notes/2024/10.October/2024-10-19.md",
+    "Daily notes/2025/01.January/26.01.2025.md",
+    "Daily notes/2025/01.January/31.01.2025.md",
+    "Daily notes/2025/01.January/25.01.2025.md",
+    "Daily notes/2025/01.January/24.01.2025.md",
+    "Daily notes/2025/01.January/23.01.2025.md",
+    "Daily notes/2025/01.January/22.01.2025.md",
+    "Daily notes/2025/01.January/19.01.2025.md",
+    "Daily notes/2025/01.January/06.02.2025.md",
+    "Insights/Why not/Why not YouTube.md",
+    "Insights/Why not/Why not S3.md",
+    "Insights/Why not/Why not porn when stress or depression.md",
+    "Insights/Why not/Why not Linux.md",
+    "Daily notes/2025/01.January",
     "Daily notes/2025",
     "Insights/Articles/The Willpower Instinct",
     "Daily notes/2024/12.December"
