@@ -7,5 +7,6 @@
   ],
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Assets",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
