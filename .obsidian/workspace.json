@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f04e23002470f553",
+        "id": "66a9a65c7411a1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "696063e4558cbbfa",
+            "id": "dd70135290355c0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/Articles/Sound Problem on Linux.md",
+                "file": "Daily notes/2025/02.February/20-02-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sound Problem on Linux"
+              "title": "20-02-2025"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "091e6a3aece996d2",
@@ -180,12 +181,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "696063e4558cbbfa",
+  "active": "dd70135290355c0a",
   "lastOpenFiles": [
+    "Daily notes/2025/02.February/19-02-2025.md",
+    "Daily notes/2025/02.February/20-02-2025.md",
     "Daily notes/2025/02.February/17-02-2025.md",
+    "Daily notes/2025/02.February/16-02-2025.md",
     "Insights/Articles/Sound Problem on Linux.md",
     "Insights/Articles/Errors logs.md",
-    "Daily notes/2025/02.February/16-02-2025.md",
     "Daily notes/2025/01.January/25-01-2025.md",
     "Daily notes/2025/01.January/23-01-2025.md",
     "Daily notes/2025/01.January/26-01-2025.md",
@@ -208,8 +211,6 @@
     "Daily notes/2024/11.November/2024-11-28.md",
     "Daily notes/2024/11.November/2024-11-04.md",
     "Daily notes/2024/11.November/2024-11-02.md",
-    "Daily notes/2024/11.November/2024-11-01.md",
-    "Daily notes/2024/09.September/2024-09-30.md",
     "Daily notes/2025/01.January",
     "Daily notes/2025",
     "Insights/Articles/The Willpower Instinct",
