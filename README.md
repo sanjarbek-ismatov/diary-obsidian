@@ -1,0 +1,1 @@
+This repo contains almost everything in my life: from what I did to what I will. The reason why I am keeping it public, I want to be open to share my knowledge, experience to everyone, be able to clone it easily
