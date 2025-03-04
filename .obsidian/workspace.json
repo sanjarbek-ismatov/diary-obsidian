@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025/03.March/01-03-2025.md",
+                "file": "Daily notes/2025/03.March/04-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01-03-2025"
+              "title": "04-03-2025"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "091e6a3aece996d2",
@@ -182,10 +183,11 @@
   },
   "active": "690a880fa1637ade",
   "lastOpenFiles": [
-    "Insights/Resources/Coping with boredom.md",
-    "Daily notes/2025/03.March/01-03-2025.md",
-    "Insights/Resources/Books for willpower.md",
     "Daily notes/2025/03.March/00.Goals for March.md",
+    "Daily notes/2025/03.March/04-03-2025.md",
+    "Daily notes/2025/03.March/01-03-2025.md",
+    "Insights/Resources/Coping with boredom.md",
+    "Insights/Resources/Books for willpower.md",
     "Daily notes/2025/02.February/23-02-2025.md",
     "Daily notes/2025/02.February/26-02-2025.md",
     "Daily notes/2025/03.March",
@@ -210,7 +212,6 @@
     "Daily notes/2025/02.February/10.02.2025.md",
     "Daily notes/2025/02.February",
     "Assets/my-ublock-static-filters_2025-02-15_13.09.41.txt",
-    "Daily notes/2024/12.December/2024-12-27.md",
     "Daily notes/2025/01.January",
     "Daily notes/2025",
     "Insights/Articles/The Willpower Instinct",
