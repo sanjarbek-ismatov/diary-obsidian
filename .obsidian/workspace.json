@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ea99e0ee2eff768e",
+        "id": "745a9ff5b9d6b708",
         "type": "tabs",
         "children": [
           {
-            "id": "690a880fa1637ade",
+            "id": "823a94f807c9b540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025/03.March/04-03-2025.md",
+                "file": "Daily notes/2025/03.March/01-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04-03-2025"
+              "title": "01-03-2025"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "091e6a3aece996d2",
@@ -181,10 +180,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "690a880fa1637ade",
+  "active": "823a94f807c9b540",
   "lastOpenFiles": [
-    "Daily notes/2025/03.March/00.Goals for March.md",
     "Daily notes/2025/03.March/04-03-2025.md",
+    "Daily notes/2025/03.March/08-03-2025.md",
+    "Daily notes/2025/03.March/11-03-2025.md",
+    "Daily notes/2025/03.March/09-03-2025.md",
+    "Daily notes/2025/03.March/12-03-2025.md",
+    "Daily notes/2025/03.March/07-03-2025.md",
+    "Daily notes/2025/03.March/06-03-2025.md",
+    "Daily notes/2025/03.March/05-03-2025.md",
+    "Daily notes/2025/03.March/00.Goals for March.md",
     "Daily notes/2025/03.March/01-03-2025.md",
     "Insights/Resources/Coping with boredom.md",
     "Insights/Resources/Books for willpower.md",
@@ -203,13 +209,6 @@
     "Daily notes/2025/01.January/23-01-2025.md",
     "Daily notes/2025/01.January/26-01-2025.md",
     "Daily notes/2025/01.January/31-01-2025.md",
-    "Daily notes/2025/02.February/06-02-2025.md",
-    "Daily notes/2025/01.January/19-01-2025.md",
-    "Daily notes/2025/01.January/18-01-2025.md",
-    "Daily notes/2025/01.January/16.02.2025.md",
-    "Daily notes/2025/02.February/15.02.2025.md",
-    "Daily notes/2025/02.February/13.02.2025.md",
-    "Daily notes/2025/02.February/10.02.2025.md",
     "Daily notes/2025/02.February",
     "Assets/my-ublock-static-filters_2025-02-15_13.09.41.txt",
     "Daily notes/2025/01.January",
