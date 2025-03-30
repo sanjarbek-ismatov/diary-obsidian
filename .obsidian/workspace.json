@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2025/03.March/29-03-2025.md",
+                "file": "Articles/Book reviews/The Willpower Instinct/Chapters/0.Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "29-03-2025"
+              "title": "0.Introduction"
             }
           }
         ]
@@ -180,10 +180,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "823a94f807c9b540",
+  "active": "48335a1d65995164",
   "lastOpenFiles": [
-    "Daily notes/2025/03.March/23-03-2025.md",
+    "Resources/Books for willpower.md",
+    "Articles/Book reviews/The Willpower Instinct/Chapters/0.Introduction.md",
+    "Articles/Book reviews/The Willpower Instinct/Chapters",
+    "Resources/Coping with boredom.md",
+    "Articles/Deep focus, multi-tasking.md",
+    "Articles/Sound Problem on Linux.md",
+    "Articles/Book reviews/The Willpower Instinct/Old drafts/Willpower experiments.md",
+    "Articles/Book reviews/The Willpower Instinct/Old drafts",
+    "Articles/Book reviews",
+    "Articles/Book reviews/The Willpower Instinct/Old drafts/1. You need to know why you fail.md",
+    "Daily notes/2025/03.March/30-03-2025.md",
+    "Assets/Pasted image 20250330200532.png",
+    "Assets/Pasted image 20250330200514.png",
     "Daily notes/2025/03.March/29-03-2025.md",
+    "Daily notes/2025/03.March/23-03-2025.md",
     "Daily notes/2025/03.March/21-03-2025.md",
     "Daily notes/2025/03.March/20-03-2025.md",
     "Daily notes/2025/03.March/19-03-2025.md",
@@ -200,20 +213,12 @@
     "Daily notes/2025/03.March/07-03-2025.md",
     "Daily notes/2025/03.March/06-03-2025.md",
     "Daily notes/2025/03.March/05-03-2025.md",
-    "Daily notes/2025/03.March/00.Goals for March.md",
-    "Insights/Resources/Coping with boredom.md",
-    "Insights/Resources/Books for willpower.md",
-    "Daily notes/2025/02.February/23-02-2025.md",
-    "Daily notes/2025/02.February/26-02-2025.md",
     "Daily notes/2025/03.March",
-    "Daily notes/2025/02.February/22-02-2025.md",
-    "Daily notes/2025/02.February/21-02-2025.md",
-    "Daily notes/2025/02.February/20-02-2025.md",
     "Daily notes/2025/02.February",
     "Assets/my-ublock-static-filters_2025-02-15_13.09.41.txt",
     "Daily notes/2025/01.January",
     "Daily notes/2025",
-    "Insights/Articles/The Willpower Instinct",
+    "Articles/Book reviews/The Willpower Instinct",
     "Daily notes/2024/12.December"
   ]
 }
