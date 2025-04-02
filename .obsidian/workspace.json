@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "091e6a3aece996d2",
@@ -180,10 +181,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "48335a1d65995164",
+  "active": "823a94f807c9b540",
   "lastOpenFiles": [
-    "Resources/Books for willpower.md",
+    "Daily notes/2025/03.March/02-04-2025.md",
     "Articles/Book reviews/The Willpower Instinct/Chapters/0.Introduction.md",
+    "Resources/Books for willpower.md",
     "Articles/Book reviews/The Willpower Instinct/Chapters",
     "Resources/Coping with boredom.md",
     "Articles/Deep focus, multi-tasking.md",
@@ -212,7 +214,6 @@
     "Daily notes/2025/03.March/09-03-2025.md",
     "Daily notes/2025/03.March/07-03-2025.md",
     "Daily notes/2025/03.March/06-03-2025.md",
-    "Daily notes/2025/03.March/05-03-2025.md",
     "Daily notes/2025/03.March",
     "Daily notes/2025/02.February",
     "Assets/my-ublock-static-filters_2025-02-15_13.09.41.txt",
