@@ -1,0 +1,19 @@
+- [ ] Running after waking up #everyday
+- [ ] Cold shower #everyday 
+- [ ] Workout #everyday 
+- [ ] IELTS preparation #everyday 
+- [ ] Reading a book 
+- [ ] Reading articles
+- [ ] Programming (project)
+- [ ] Programming (learning)
+- [ ] Taking notes (Obsidian)
+- [ ] Taking notes (my notebook)
+- [ ] SAT course
+- [ ] Math learning
+- [ ] Duolingo, Elevate, Anki, Memrise... (cognitive improvements) #everyday 
+- [ ] Meditation, Breath control #everyday 
+- [ ] Plank (mental toughness)
+- [ ] Watching podcasts offline
+- [ ] English platforms (BBC English, LearnEnglish BritishCouncil)
+- [ ] Mindfulness: doing nothing
+- [ ] MonkeyType
