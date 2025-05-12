@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cba387f9e7aa94b6",
+        "id": "a25b745d786ddcf1",
         "type": "tabs",
         "children": [
           {
-            "id": "1dff525eb84e7b4b",
+            "id": "bebe901cca5792ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
         ]
       },
       {
-        "id": "164b7867df56c2d5",
+        "id": "a665bf7a44786b58",
         "type": "tabs",
         "children": [
           {
-            "id": "29a03f7a93e5768f",
+            "id": "41127fdcf3cb1907",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
+    "width": 248.5,
     "collapsed": true
   },
   "right": {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2025/03.March/01-03-2025.md",
+                "file": "Daily notes/2025/05.May/12-05-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-03-2025"
+              "title": "Backlinks for 12-05-2025"
             }
           },
           {
@@ -202,16 +202,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1dff525eb84e7b4b",
+  "active": "bebe901cca5792ca",
   "lastOpenFiles": [
     "Resources/Table of porn-free journey.md",
+    "Resources/Activites.canvas",
     "Daily notes/2025/05.May/12-05-2025.md",
     "Daily notes/2025/01.January/19-01-2025.md",
     "Daily notes/2025/01.January/18-01-2025.md",
     "Daily notes/2025/05.May/11-05-2025.md",
     "Daily notes/2025/05.May/10-05-2025.md",
     "Resources/Habits and activities.md",
-    "Resources/Activites.canvas",
     "Daily notes/2025/05.May/09-05-2025.md",
     "Resources/Coping with boredom.md",
     "Daily notes/2025/05.May/08-05-2025.md",
@@ -231,7 +231,6 @@
     "Daily notes/2025/03.March/20-03-2025.md",
     "Daily notes/2025/03.March/19-03-2025.md",
     "Daily notes/2025/03.March/13-03-2025.md",
-    "Articles/Book reviews/The Willpower Instinct/Chapters/0.Introduction.md",
     "Articles/Book reviews/The Willpower Instinct/Chapters",
     "Articles/Book reviews/The Willpower Instinct/Old drafts",
     "Articles/Book reviews",
